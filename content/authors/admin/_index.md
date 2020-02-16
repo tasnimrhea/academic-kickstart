@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Automotive Embedded Developer
+role: Automotive Embedded Systems Developer
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ social:
   icon_pack: 
   link: 
 - icon: github
-  icon_pack: 
+  icon_pack: fav
   link: https://github.com/tasnimrhea
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
