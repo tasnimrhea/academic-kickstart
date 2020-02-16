@@ -46,7 +46,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:stmrhea@gmail.com".
 - icon: github
-  icon_pack: fav
+  icon_pack: fas
   link: https://github.com/tasnimrhea
 - icon: 
   icon_pack: 
