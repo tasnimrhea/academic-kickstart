@@ -45,14 +45,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:stmrhea@gmail.com".
-- icon: 
-  icon_pack: 
-  link: 
-- icon: 
-  icon_pack: 
-  link: 
 - icon: github
   icon_pack: fav
+  link: https://github.com/tasnimrhea
+- icon: 
+  icon_pack: 
+  link: 
+- icon: 
+  icon_pack: 
   link: https://github.com/tasnimrhea
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
