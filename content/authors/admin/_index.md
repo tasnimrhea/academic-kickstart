@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Automotive Embedded Systems Developer
+role: Embedded Systems Developer (Automotive)
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,13 @@ organizations:
   url: "http://www.techno-labo.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Embedded Systems with IoT application, Artificial Intelligence, Machine Learning.
+bio: My interests include Embedded Systems with IoT application, Artificial Intelligence, Machine Learning, Astrophysics and Astronomy
 
 interests:
 - Embedded Systems with IoT application
 - Artificial Intelligence
 - Machine Learning
+- Astrophysics and Astronomy
 
 education:
   courses:
@@ -48,16 +49,19 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tasnimrhea
-- icon: 
-  icon_pack: 
-  link: 
-- icon: 
-  icon_pack: 
-  link: 
+- icon: fa-flower-daffodil
+  icon_pack: far
+  link: https://thetasnim.wordpress.com/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCzLBdRZapAn97Br7qO95fmA
+  - icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/document/7506813
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: 
+#   icon_pack: ai
 #   link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
