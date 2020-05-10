@@ -34,15 +34,6 @@ date_format = "Jan 2006"
   * Testing
   """
  
-[[experience]]
-  title = "Trainee (B-JET)"
-  company = "Japan International Cooperation Agency (JICA)"
-  company_url = ""
-  location = "Dhaka, Bangladesh"
-  date_start = "Oct 2018"
-  date_end = "Jan 2019"
-  description = ""
-  
 
 
 +++
