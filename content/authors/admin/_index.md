@@ -55,7 +55,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCzLBdRZapAn97Br7qO95fmA
-  - icon: ieee
+- icon: ieee
   icon_pack: ai
   link: https://ieeexplore.ieee.org/document/7506813
 # Link to a PDF of your resume/CV from the About widget.
