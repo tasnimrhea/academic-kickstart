@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-
+Samma Tasnim Mossarrat is an Embedded Systems Developer (Automotive) in Embedded Division 1-Section 1 at TechnoLab Inc in Sapporo, Hokkaido, Japan that responsible for developing in-vehicle infotainment equipments and in-vehicle ECUs for major suppliers. Apart from Embedded Systems and IoT-based applications, Samma is also an enthusiast in Artificial Intelligence, Machine Learning, and Database Administration. She is open to new experiences and challenges. Her personality comprises diligence, optimism, and good-humour. 
