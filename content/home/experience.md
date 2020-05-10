@@ -50,13 +50,6 @@ date_format = "Jan 2006"
   date_start = "May 2015"
   date_end = "Mar 2016"
   description = """
-  Responsibilities include:
   
-  * Support
-  * Scripting
-  * Deploying
-  * Migration
-  * Automation
-  """
 
 +++
