@@ -49,8 +49,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tasnimrhea
-- icon: fa-flower-daffodil
-  icon_pack: far
+- icon: wordpress
+  icon_pack: fab
   link: https://thetasnim.wordpress.com/
 - icon: youtube
   icon_pack: fab
