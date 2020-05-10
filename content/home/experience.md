@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "Oct 2018"
   date_end = "Jan 2019"
-  description = """
+  description = ""
   
 
 
