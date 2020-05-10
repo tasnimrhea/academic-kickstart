@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Embedded System Developer"
-  company = "abc"
+  company = "株式会社テクノラボ"
   company_url = "http://www.techno-labo.co.jp/"
   location = "Sapporo, Hokkaido, Japan"
   date_start = "Apr 2019"
@@ -43,21 +43,6 @@ date_format = "Jan 2006"
   date_end = "Jan 2019"
   description = ""
   
-[[experience]]
-  title = "System Engineer"
-  company = "CloudlyIO, Inc."
-  company_url = ""
-  location = "Dhaka, Bangladesh"
-  date_start = "May 2015"
-  date_end = "Mar 2016"
-  description = """
-  Responsibilities include:
-  
-  * Support
-  * Scripting
-  * Deploying
-  * Migration
-  * Automation
-  """
+
 
 +++
