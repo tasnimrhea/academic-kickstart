@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2018-10-28"
   date_end = "2019-01-27"
-  description = """"
+  description = """
   
 [[experience]]
   title = "System Engineer"
